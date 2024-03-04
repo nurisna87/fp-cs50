@@ -1,0 +1,47 @@
+.tim img {
+    width: 250px;
+    border: 10px solid #fff;
+}
+
+a.socialfb{
+    display: inline-block;
+    width: 40px;
+    height: 40px;
+    color: blue;
+    border-radius: 50%;
+    background-color: darkgrey;
+    line-height: 40px;
+}
+a.socialig{
+    display: inline-block;
+    width: 40px;
+    height: 40px;
+    color: darkmagenta;
+    border-radius: 50%;
+    background-color: darkgrey;
+    line-height: 40px;
+}
+a.socialyt{
+    display: inline-block;
+    width: 40px;
+    height: 40px;
+    color: red;
+    border-radius: 50%;
+    background-color: darkgrey;
+    line-height: 40px;
+}
+a.socialwa{
+    display: inline-block;
+    width: 40px;
+    height: 40px;
+    color: green;
+    border-radius: 50%;
+    background-color: darkgrey;
+    line-height: 40px;
+}
+.text-black{
+    font-family: arial;
+    font-size: 20px;
+    padding: 0.5rem 0.5rem;
+}
+
