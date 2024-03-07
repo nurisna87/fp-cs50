@@ -27,5 +27,23 @@ register table: to store each ingredient's category. It's related to the registe
 
 
 # Structure
+    Website of Mediartha.com
+        Home
+        Service
+        Portofolio
+            Portofolio Video
+                Video
+            Portofolio Foto
+                Img
+            Portofolio Drone
+                Video
+        Staff
+        Contact
+            Comment
+            Register
+            Login
+        Dynamic Website
+        Blog
+        
 
 
